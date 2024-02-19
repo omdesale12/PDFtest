@@ -1,0 +1,23 @@
+export const pdfList=[
+    {
+        pdf1:require('../../assets/pdf/01.pdf'),
+    },
+    {
+        pdf1:require('../../assets/pdf/01.pdf'),
+    },
+    {
+        pdf1:require('../../assets/pdf/01.pdf'),
+    },
+    {
+        pdf1:require('../../assets/pdf/01.pdf'),
+    },
+    {
+        pdf1:require('../../assets/pdf/01.pdf'),
+    },
+    {
+        pdf1:require('../../assets/pdf/01.pdf'),
+    },
+    {
+        pdf1:require('../../assets/pdf/01.pdf'),
+    },
+]
